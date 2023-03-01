@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+input:focus {
+    outline: none;
+}
+
+.confirm {
+    color: green;
+}
+
+.error {
+    color: red;
+}
+
+#last {
+    text-align: end;
+}
+button {
+    margin-left: 5px;
+}
+
+tr {
+    height: 30px;
+}
+fieldset {
+    width: 400px;
+}
